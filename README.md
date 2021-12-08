@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ankstorm
-- 👀 I’m interested in create games
-- 🌱 I’m currently learning haxe, and maybe other things
-- 💞️ I’m looking to get to be famous or something like this 
-- 📫 Never give up
+- no se q hago con mi vida
 
 <!---
 ankstorm/ankstorm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
